@@ -1,1 +1,1 @@
-Hi, my name is Lucky Grover and this commit is done through Github.
+This commit is made by lucky
