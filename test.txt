@@ -1,2 +1,1 @@
-This commit is made by lucky
-This commit is for resolving conflict
+This commit is made by Anvit
