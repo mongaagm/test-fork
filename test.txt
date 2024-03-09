@@ -1,6 +1,1 @@
-my name is dhruv
-hello guys
-i am sad
-hi
-lucky
-This commit is from my local machine for task 1.2
+Hi, my name is Lucky Grover and this commit is done through Github.
